@@ -1,0 +1,12 @@
+.header-restaurant{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+img {
+    width: 200px;
+}
+p{
+
+}
