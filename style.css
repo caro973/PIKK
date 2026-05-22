@@ -1,20 +1,3 @@
-.header-pikk{
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
+.test-white {
+    color: #fff;
 }
-
-img{
-width: 200px;
-}
-
-p{
-width:100px;
-margin-top:82px;
-}
-
-.nav{
-    display: flex;
-}
-
-
