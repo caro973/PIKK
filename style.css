@@ -1,0 +1,15 @@
+:root {
+    --titre: 'Space Grotesk', sans serif;
+    --texte: 'Inter', sans serif;
+    --couleur-text: #F5F0E8;
+    --couleur-background: #1A1A1A;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--couleur-background);
+    width: 100%;
+}
+
