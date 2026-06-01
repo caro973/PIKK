@@ -1,15 +1,126 @@
-:root {
-    --titre: 'Space Grotesk', sans serif;
-    --texte: 'Inter', sans serif;
-    --couleur-text: #F5F0E8;
-    --couleur-background: #1A1A1A;
+@font-face {
+    font-family: 'inter';
+    src: url('assets/font/Inter/Inter/static/Inter_28pt-Regular.ttf');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('assets/font/Space_Grotesk/static/SpaceGrotesk-bold.ttf');
 }
 
 
-.header{
+
+:root {
+    --titre: 'Space Grotesk', sans-serif;
+    --texte: 'Inter', sans-serif;
+    --couleur-text: #F5F0E8;
+    --couleur-background: #1A1A1A;
+    --couleur-titre: #F97316;
+}
+
+/* ---- RESET ---- */
+body {
+    margin: 0;
+}
+
+/* ---- HEADER ---- */
+header {
+    width: auto;
+}
+
+.header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: var(--couleur-background);
-    width: 100%;
+    height: 14rem;
+}
+
+/* ---- NAV ---- */
+nav {
+    display: none;
+    flex-direction: column;
+    gap: 20px;
+    margin-right: 2%;
+}
+
+nav.open {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: var(--couleur-background);
+        z-index: 999;
+}
+
+nav.open a {
+    font-size: 2rem;
+}
+
+
+nav a {
+    color: var(--couleur-text);
+    font-family: var(--texte);
+    text-decoration: none;
+}
+
+/* ---- BURGER ---- */
+.burger {
+    display: block;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+    position: relative;
+    z-index: 1000; /* plus haut que le menu (999) */
+}
+
+/* ---- MAIN ---- */
+.hero{
+    background-image: url("assets/img/pexels-young-n-stupid-3152059-5801024.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+}
+
+p{
+    color: var(--couleur-text);
+    font-family: var(--texte);
+}
+
+h1{
+    font-family: var(--titre);
+    color: var(--couleur-titre);
+}
+
+/* ---- DESKTOP (media query) ---- */
+@media (min-width: 768px) {
+    .burger {
+        display: none;
+        margin-right: 2%;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: row;
+    }
+    .hero{
+        background-image: url("assets/img/pexels-young-n-stupid-3152059-5801024.jpg");
+        background-size: cover;
+        background-position: center;
+        min-height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        padding: 60px;
+    }
 }
 

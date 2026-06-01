@@ -5,7 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-premier-commit">
-      <change afterPath="$PROJECT_DIR$/assets/img/LOGO PIKK2 copie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/Inter-Italic-VariableFont_opsz,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/Inter-VariableFont_opsz,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pexels-young-n-stupid-3152059-5801024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -19,23 +87,45 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "caro973"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/caro973/PIKK.git",
+    "accountId": "654fde11-0301-4308-a771-b69c935a867b"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/Utilisateur/WebstormProjects/PIKK/assets/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\WebstormProjects\PIKK\assets\img" />
+      <recent name="C:\Users\Utilisateur\WebstormProjects\PIKK\assets\font" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\WebstormProjects\PIKK\assets\font" />
       <recent name="C:\Users\Utilisateur\WebstormProjects\PIKK\assets\img" />
     </key>
   </component>
@@ -48,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780314490441</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pikk-premier-commit">
+      <option name="closed" value="true" />
+      <created>1780317492185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780317492185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

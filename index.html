@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>PIKK</title>
     <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
 <header>
@@ -11,15 +13,30 @@
         <div class="logo">
             <img src="assets/img/LOGO%20PIKK2%20copie.png" alt="Logo PIKK">
         </div>
-            <nav>
-                    <a href="#">Accueil</a>
-                    <a href="#">Réalisation</a>
-                    <a href="#">Flash Disponibles</a>
-                    <a href="#">Soins post-tatoo</a>
-                    <a href="#">Contact et RDV</a>
-            </nav>
+        <button class="burger" onclick="toggleMenu()">☰</button>
+        <nav id="menu">
+            <a href="#">Accueil</a>
+            <a href="#">Réalisation</a>
+            <a href="#">Flash Disponibles</a>
+            <a href="#">Soins post-tatoo</a>
+            <a href="#">Contact et RDV</a>
+        </nav>
     </div>
 </header>
+<main>
+    <section class="hero">
+        <div class ="hero-contenu">
+            <h1>T'a des idées ? On a les aiguilles</h1>
+            <p>PIKK, c'est un studio de tatouage basé à Metz, né d'une passion simple : transformer vos idées en œuvres permanentes.
 
+                Ici, pas de prise de tête. On aime tous les styles — du trait fin au old school bien chargé, du réalisme au flash coloré — et surtout, on aime les gens qui arrivent avec une idée en tête, même floue, même bizarre, même "je sais pas trop comment l'expliquer".
+
+                Nos artistes sont là pour écouter, conseiller et créer avec toi. Pas pour toi.
+
+                On croit que chaque tatouage mérite d'être réfléchi, bien exécuté, et porté avec fierté. Ta peau est une toile — on la respecte, tu l'hab</p>
+        </div>
+    </section>
+</main>
+<script src="script.js"></script>
 </body>
 </html>
