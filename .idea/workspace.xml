@@ -4,78 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-premier-commit">
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/Inter-Italic-VariableFont_opsz,wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/Inter-VariableFont_opsz,wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_18pt-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_24pt-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Inter/Inter/static/Inter_28pt-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Space_Grotesk/static/SpaceGrotesk-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/pexels-young-n-stupid-3152059-5801024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-var-typo-menuburger">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1780317492185</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pikk-var-typo-menuburger">
+      <option name="closed" value="true" />
+      <created>1780325346469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780325346469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pikk-premier-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="pikk-premier-commit" />
+    <MESSAGE value="pikk-var-typo-menuburger" />
+    <option name="LAST_COMMIT_MESSAGE" value="pikk-var-typo-menuburger" />
   </component>
 </project>
