@@ -20,27 +20,16 @@
 /* ---- RESET ---- */
 body {
     margin: 0;
-}
-
-/* ---- HEADER ---- */
-header {
-    width: auto;
-}
-
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: var(--couleur-background);
-    height: 14rem;
 }
+
 
 /* ---- NAV ---- */
 nav {
     display: none;
     flex-direction: column;
     gap: 20px;
-    margin-right: 2%;
+    margin-right: 14%;
 }
 
 nav.open {
@@ -79,6 +68,7 @@ nav a {
     color: white;
     position: relative;
     z-index: 1000; /* plus haut que le menu (999) */
+    margin-right: 2%;
 }
 
 /* ---- MAIN ---- */
@@ -90,6 +80,7 @@ nav a {
     display: flex;
     align-items: flex-start;
     padding: 60px;
+    text-align: center;
 }
 
 p{
@@ -101,6 +92,121 @@ h1{
     font-family: var(--titre);
     color: var(--couleur-titre);
 }
+
+.icone{
+    color: var(--couleur-titre);
+    margin-top: 2%;
+}
+/******HEADER******/
+/* ---- HEADER ---- */
+header {
+    width: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--couleur-background);
+    height: 14rem;
+}
+
+.logo img{
+    width: 54%;
+    margin-left: 14%;
+}
+
+/******FOOTER*******/
+
+.logo-footer img{
+    width: 30%;
+    margin-left: 4%;
+    margin-top: 14%;
+}
+
+footer{
+    height: 30%;
+}
+
+.footer{
+    height: 14rem;
+}
+/******BOUTON******/
+
+.pikk-btn1,
+.pikk-btn2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 500px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.pikk-btn1 .label1,
+.pikk-btn2 .label2 {
+    position: relative;
+    z-index: 2;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+
+/* ===== BOUTON 1 — overlay orange ===== */
+.pikk-btn1 .bg1 {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-image: url('assets/img/Flash/43e76b3a1eded884ee001ab6b0b4cc9d.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.5s ease;
+}
+
+.pikk-btn1::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: #1A1A1A;
+    opacity: 0.50;
+    transition: opacity 0.3s ease;
+}
+
+.pikk-btn1:hover .bg1 { transform: scale(1.08); }
+.pikk-btn1:hover::after { opacity: 0.9; }
+
+/* ===== BOUTON 2 — overlay noir ===== */
+.pikk-btn2 .bg2 {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-image: url('assets/img/Realisation/c8c495a5b01e0eefb63816e803c1f6bb.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.5s ease;
+}
+
+.pikk-btn2::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: #1A1A1A;
+    opacity: 0.50;
+    transition: opacity 0.3s ease;
+}
+
+.pikk-btn2:hover .bg2 { transform: scale(1.08); }
+.pikk-btn2:hover::after { opacity: 0.9; }
 
 /* ---- DESKTOP (media query) ---- */
 @media (min-width: 768px) {
@@ -122,5 +228,12 @@ h1{
         align-items: flex-start;
         padding: 60px;
     }
+
+    .pikk-btn1, .pikk-btn2{
+        display: flex;
+        justify-content: space-around;
+    }
+
+
 }
 
