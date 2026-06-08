@@ -131,6 +131,12 @@ footer{
 .footer{
     height: 14rem;
 }
+
+.nav-footer{
+    color: var(--couleur-text);
+    font-family: var(--texte);
+    text-decoration: none;
+}
 /******BOUTON******/
 
 .pikk-btn1,
@@ -169,6 +175,7 @@ footer{
     background-size: cover;
     background-position: center;
     transition: transform 0.5s ease;
+
 }
 
 .pikk-btn1::after {
@@ -208,32 +215,6 @@ footer{
 .pikk-btn2:hover .bg2 { transform: scale(1.08); }
 .pikk-btn2:hover::after { opacity: 0.9; }
 
-/* ---- DESKTOP (media query) ---- */
-@media (min-width: 768px) {
-    .burger {
-        display: none;
-        margin-right: 2%;
-    }
-
-    nav {
-        display: flex;
-        flex-direction: row;
-    }
-    .hero{
-        background-image: url("assets/img/pexels-young-n-stupid-3152059-5801024.jpg");
-        background-size: cover;
-        background-position: center;
-        min-height: 100vh;
-        display: flex;
-        align-items: flex-start;
-        padding: 60px;
-    }
-
-    .pikk-btn1, .pikk-btn2{
-        display: flex;
-        justify-content: space-around;
-    }
 
 
-}
 
