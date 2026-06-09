@@ -22,11 +22,24 @@
 
     .galerie-real {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* 2 colonnes */
+        grid-template-columns: repeat(3, 1fr); /* 2 colonnes */
         gap: 20px;
+        justify-items: center;
     }
 
     .galerie-real img{
+        width: 90%;
+        border-radius: 5%;
+    }
+
+    .galerie-flash{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 2 colonnes */
+        gap: 20px;
+        justify-items: center;
+    }
+
+    .galerie-flash img{
         width: 90%;
         border-radius: 5%;
     }
