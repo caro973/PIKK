@@ -26,8 +26,8 @@ body {
 
 /* ---- NAV ---- */
 nav {
-    display: none;
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
     gap: 20px;
     margin-right: 14%;
 }
@@ -57,10 +57,12 @@ nav a {
     font-family: var(--texte);
     text-decoration: none;
 }
-
+nav a:hover {
+    color: var(--couleur-titre)
+}
 /* ---- BURGER ---- */
 .burger {
-    display: block;
+    display: none;
     font-size: 2rem;
     background: none;
     border: none;
@@ -93,6 +95,13 @@ h1{
     color: var(--couleur-titre);
 }
 
+h2{
+    font-family: var(--titre);
+    color: var(--couleur-titre);
+    text-align: center;
+    margin-bottom: 10%;
+}
+
 .icone{
     color: var(--couleur-titre);
     margin-top: 2%;
@@ -119,9 +128,9 @@ header {
 /******FOOTER*******/
 
 .logo-footer img{
-    width: 30%;
+    width: 17%;
     margin-left: 4%;
-    margin-top: 14%;
+    margin-top: 7%;
 }
 
 footer{
@@ -132,11 +141,6 @@ footer{
     height: 14rem;
 }
 
-.nav-footer{
-    color: var(--couleur-text);
-    font-family: var(--texte);
-    text-decoration: none;
-}
 /******BOUTON******/
 
 .pikk-btn1,
@@ -171,7 +175,7 @@ footer{
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url('assets/img/Flash/43e76b3a1eded884ee001ab6b0b4cc9d.jpg');
+    background-image: url('assets/img/flash/43e76b3a1eded884ee001ab6b0b4cc9d.jpg');
     background-size: cover;
     background-position: center;
     transition: transform 0.5s ease;
@@ -196,7 +200,7 @@ footer{
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url('assets/img/Realisation/c8c495a5b01e0eefb63816e803c1f6bb.jpg');
+    background-image: url('assets/img/realisation/c8c495a5b01e0eefb63816e803c1f6bb.jpg');
     background-size: cover;
     background-position: center;
     transition: transform 0.5s ease;
@@ -214,6 +218,8 @@ footer{
 
 .pikk-btn2:hover .bg2 { transform: scale(1.08); }
 .pikk-btn2:hover::after { opacity: 0.9; }
+
+/* ==== GALERIE ==== */
 
 
 

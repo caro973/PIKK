@@ -4,10 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-btn-footer">
-      <change afterPath="$PROJECT_DIR$/media_query.css" afterDir="false" />
+    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-btn-">
+      <change afterPath="$PROJECT_DIR$/realisation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/128411-ORHF2X-518.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/128411-ORHF2X-518.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/128805-ORFHZS-308.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/128805-ORFHZS-308.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/128837-OS1JAI-379.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/128837-OS1JAI-379.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/144440-OTN4I4-305.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/144440-OTN4I4-305.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/22344.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/22344.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/22345.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/22345.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/3dabfcead5ea77710303ff16d3229640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/3dabfcead5ea77710303ff16d3229640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/43e76b3a1eded884ee001ab6b0b4cc9d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/43e76b3a1eded884ee001ab6b0b4cc9d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/44453.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/44453.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/65386-OBH3NT-792.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/65386-OBH3NT-792.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/78c3cf94aed996046c406d0699382fdd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/78c3cf94aed996046c406d0699382fdd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/799dd0491a985d862ebbabbbbb95d94c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/799dd0491a985d862ebbabbbbb95d94c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/7bd397e40e1d55897a47e8be8bcaa991.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/7bd397e40e1d55897a47e8be8bcaa991.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/870948339eb7441b0d2e57d22d457f21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/870948339eb7441b0d2e57d22d457f21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/8cca9f271f97240b62c402022a845321.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/8cca9f271f97240b62c402022a845321.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/96e8866de3984b65950a982fd3354f3a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/96e8866de3984b65950a982fd3354f3a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/9765a57d3f66bef83d7de8e20ef15514.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/9765a57d3f66bef83d7de8e20ef15514.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/a9440fc3130eb0dfe719355be53c390a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/a9440fc3130eb0dfe719355be53c390a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/ace881e3a1a53369d611d97e461602df.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/ace881e3a1a53369d611d97e461602df.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/cd2b7a96995781027058407058c5dd53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/cd2b7a96995781027058407058c5dd53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/photos_redimensionnees_3/78c3cf94aed996046c406d0699382fdd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/photos_redimensionnees_3/78c3cf94aed996046c406d0699382fdd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/photos_redimensionnees_3/cd2b7a96995781027058407058c5dd53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/photos_redimensionnees_3/cd2b7a96995781027058407058c5dd53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Flash/rm294-aum-05a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/flash/rm294-aum-05a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/02334ae08455079a314369a86a3d1400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/02334ae08455079a314369a86a3d1400.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/1e9b252ad93a7c419b63e26b7e4d7c72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/1e9b252ad93a7c419b63e26b7e4d7c72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/1ecbea97a1fe78150de85e0bfeef4871.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/1ecbea97a1fe78150de85e0bfeef4871.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/216f38fdde19c192115553275908d8a4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/216f38fdde19c192115553275908d8a4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/28d2055d6b6c325e73f4388c00e7d343.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/28d2055d6b6c325e73f4388c00e7d343.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/7254cf656b18356d46f55837edc916a0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/7254cf656b18356d46f55837edc916a0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/72693a425321c2926ea5f42f4dbd0f70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/72693a425321c2926ea5f42f4dbd0f70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/7b439ea88f08f592e4f1c9c1035607fd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/7b439ea88f08f592e4f1c9c1035607fd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/953cadbaa2fc3e5a1955e6e97d98837b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/953cadbaa2fc3e5a1955e6e97d98837b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/a312fbbddafbc56c2b48e04f1876509a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/a312fbbddafbc56c2b48e04f1876509a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/b205084c6bb42144a7fdfd56c2d4e8d2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/b205084c6bb42144a7fdfd56c2d4e8d2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/c8c495a5b01e0eefb63816e803c1f6bb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/c8c495a5b01e0eefb63816e803c1f6bb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/d6df2426f2793af78c288ca68027aef3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/d6df2426f2793af78c288ca68027aef3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/e7c683830274a501b18df97e70a589b5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/e7c683830274a501b18df97e70a589b5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/nouveau_tatou.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/nouveau_tatou.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/pexels-brett-sayles-2181245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/pexels-brett-sayles-2181245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/pexels-imvitordiniz-29251822.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/pexels-imvitordiniz-29251822.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/pexels-richard-cascaes-figueiredo-37075473-12038947.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/pexels-richard-cascaes-figueiredo-37075473-12038947.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/t├®l├®charger.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/t├®l├®charger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Realisation/t├®l├®charger__3_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/realisation/t├®l├®charger__3_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_query.css" beforeDir="false" afterPath="$PROJECT_DIR$/media_query.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +62,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,24 +95,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utilisateur/WebstormProjects/PIKK/assets/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/Utilisateur/WebstormProjects/PIKK/assets/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Utilisateur\WebstormProjects\PIKK\assets\img" />
@@ -127,7 +173,9 @@
       <updated>1780426016982</updated>
       <workItem from="1780426018179" duration="8237000" />
       <workItem from="1780584033249" duration="705000" />
-      <workItem from="1780901052847" duration="6323000" />
+      <workItem from="1780901052847" duration="6381000" />
+      <workItem from="1780913222442" duration="611000" />
+      <workItem from="1780986633446" duration="6218000" />
     </task>
     <task id="LOCAL-00005" summary="pikk-btn-footer">
       <option name="closed" value="true" />
@@ -145,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780434833048</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pikk-btn-">
+      <option name="closed" value="true" />
+      <created>1780907967887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780907967888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +212,7 @@
     <MESSAGE value="pikk-var-typo-menuburger" />
     <MESSAGE value="pikk-menuburger" />
     <MESSAGE value="pikk-btn-footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="pikk-btn-footer" />
+    <MESSAGE value="pikk-btn-" />
+    <option name="LAST_COMMIT_MESSAGE" value="pikk-btn-" />
   </component>
 </project>
