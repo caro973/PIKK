@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="suite PIKK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utilisateur/WebstormProjects/PIKK/assets/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utilisateur/WebstormProjects/PIKK&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -131,7 +132,9 @@
       <workItem from="1780913222442" duration="611000" />
       <workItem from="1780986633446" duration="6381000" />
       <workItem from="1781003473059" duration="3017000" />
-      <workItem from="1781007139419" duration="10383000" />
+      <workItem from="1781007139419" duration="10458000" />
+      <workItem from="1781079846376" duration="1493000" />
+      <workItem from="1781088583436" duration="1441000" />
     </task>
     <task id="LOCAL-00005" summary="pikk-btn-footer">
       <option name="closed" value="true" />
@@ -181,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781072977893</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="suite PIKK">
+      <option name="closed" value="true" />
+      <created>1781074440607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781074440607</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
