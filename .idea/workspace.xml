@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="pikk-flash-soins-contact-page">
-      <change afterPath="$PROJECT_DIR$/Cookies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cgu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mentionlegale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/politiquergpd.html" afterDir="false" />
+    <list default="true" id="32288bac-9a75-4d22-92e7-b71da677648d" name="Changes" comment="suite PIKK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contactetrdv.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contactetrdv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flashdisponible.html" beforeDir="false" afterPath="$PROJECT_DIR$/flashdisponible.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media_query.css" beforeDir="false" afterPath="$PROJECT_DIR$/media_query.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/realisation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sointposttatoo.html" beforeDir="false" afterPath="$PROJECT_DIR$/sointposttatoo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +131,7 @@
       <workItem from="1780913222442" duration="611000" />
       <workItem from="1780986633446" duration="6381000" />
       <workItem from="1781003473059" duration="3017000" />
-      <workItem from="1781007139419" duration="8795000" />
+      <workItem from="1781007139419" duration="10383000" />
     </task>
     <task id="LOCAL-00005" summary="pikk-btn-footer">
       <option name="closed" value="true" />
@@ -184,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781006455550</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="suite PIKK">
+      <option name="closed" value="true" />
+      <created>1781072977893</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781072977893</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +195,7 @@
     <MESSAGE value="pikk-btn-" />
     <MESSAGE value="pikk-galerie-realisation" />
     <MESSAGE value="pikk-flash-soins-contact-page" />
-    <option name="LAST_COMMIT_MESSAGE" value="pikk-flash-soins-contact-page" />
+    <MESSAGE value="suite PIKK" />
+    <option name="LAST_COMMIT_MESSAGE" value="suite PIKK" />
   </component>
 </project>
