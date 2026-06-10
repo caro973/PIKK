@@ -1,9 +1,13 @@
 @media (max-width: 768px) {
+
+    /* BOUTON */
     .pikk-btn1 .bg1
     .pikk-btn2 .bg2{
         margin: 20px;
         border-radius: 18px;
     }
+
+    /* BURGER */
     .burger {
         align-items: flex-start;
         padding: 60px;
@@ -16,9 +20,16 @@
         display: none; /* nav cachée par défaut sur mobile */
     }
 
+    .nav-footer{
+        display: flex;
+        flex-direction: column;
+    }
+
     nav.open {
         display: flex; /* nav visible quand menu ouvert */
     }
+
+    /*GALERIE*/
 
     .galerie-real {
         display: grid;
@@ -42,6 +53,21 @@
     .galerie-flash img{
         width: 90%;
         border-radius: 5%;
+    }
+
+    /*FOOTER*/
+
+    .footer{
+        height: 7rem;
+    }
+    .nav-footer{
+        text-align: center;
+    }
+    .nav-footer a:hover{
+        color: var(--couleur-titre);
+        font-family: var(--texte);
+
+
     }
 
 }

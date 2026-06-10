@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'inter';
-    src: url('assets/font/Inter/Inter/static/Inter_28pt-Regular.ttf');
+    src: url('assets/font/Inter/Inter/static/Inter_18pt-Regular.ttf');
 }
 @font-face {
     font-family: 'Space Grotesk';
@@ -23,6 +23,12 @@ body {
     background-color: var(--couleur-background);
 }
 
+.sous-titre-cgu li{
+    color: var(--couleur-titre);
+    font-family: var(--texte);
+    font-size: 20px;
+
+}
 
 /* ---- NAV ---- */
 nav {
@@ -85,7 +91,8 @@ nav a:hover {
     text-align: center;
 }
 
-p{
+p,
+li{
     color: var(--couleur-text);
     font-family: var(--texte);
 }
@@ -100,6 +107,11 @@ h2{
     color: var(--couleur-titre);
     text-align: center;
     margin-bottom: 10%;
+}
+
+h3{
+    color: var(--couleur-text);
+    font-family: var(--texte);
 }
 
 .icone{
@@ -141,6 +153,15 @@ footer{
     height: 14rem;
 }
 
+.nav-footer a{
+    color: var(--couleur-text);
+    font-family: var(--texte);
+    text-align: center;
+    text-decoration: none;
+}
+.nav-footer ul{
+    list-style: none;
+}
 /******BOUTON******/
 
 .pikk-btn1,
